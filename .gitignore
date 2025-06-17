@@ -1,0 +1,3 @@
+node_modules/
+
+# Help to avoid pushing node modules in git hub
